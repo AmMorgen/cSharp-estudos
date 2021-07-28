@@ -1,0 +1,16 @@
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\obj\Debug\net5.0\structs.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\obj\Debug\net5.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\obj\Debug\net5.0\structs.AssemblyInfoInputs.cache
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\obj\Debug\net5.0\structs.AssemblyInfo.cs
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\obj\Debug\net5.0\structs.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\bin\Debug\net5.0\structs.exe
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\bin\Debug\net5.0\structs.deps.json
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\bin\Debug\net5.0\structs.runtimeconfig.json
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\bin\Debug\net5.0\structs.runtimeconfig.dev.json
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\bin\Debug\net5.0\structs.dll
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\bin\Debug\net5.0\ref\structs.dll
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\bin\Debug\net5.0\structs.pdb
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\obj\Debug\net5.0\structs.dll
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\obj\Debug\net5.0\ref\structs.dll
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\obj\Debug\net5.0\structs.pdb
+C:\Users\marlo\Desktop\dotNet\structs-exercicios\structs\obj\Debug\net5.0\structs.genruntimeconfig.cache
