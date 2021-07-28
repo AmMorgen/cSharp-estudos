@@ -1,0 +1,16 @@
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\bin\Debug\net5.0\calculadora.exe
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\bin\Debug\net5.0\calculadora.dll
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\bin\Debug\net5.0\calculadora.pdb
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\obj\Debug\net5.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\obj\Debug\net5.0\calculadora.dll
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\obj\Debug\net5.0\calculadora.pdb
+C:\Users\marlo\Desktop\csharp\calculadora\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache
