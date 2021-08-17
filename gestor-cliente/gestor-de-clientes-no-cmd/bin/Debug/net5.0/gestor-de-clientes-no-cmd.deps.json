@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "gestor-de-clientes-no-cmd/1.0.0": {
+        "runtime": {
+          "gestor-de-clientes-no-cmd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestor-de-clientes-no-cmd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

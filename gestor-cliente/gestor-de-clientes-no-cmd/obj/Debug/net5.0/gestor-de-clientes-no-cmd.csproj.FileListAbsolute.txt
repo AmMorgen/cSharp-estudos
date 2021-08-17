@@ -1,0 +1,16 @@
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\bin\Debug\net5.0\gestor-de-clientes-no-cmd.exe
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\bin\Debug\net5.0\gestor-de-clientes-no-cmd.deps.json
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\bin\Debug\net5.0\gestor-de-clientes-no-cmd.runtimeconfig.json
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\bin\Debug\net5.0\gestor-de-clientes-no-cmd.runtimeconfig.dev.json
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\bin\Debug\net5.0\gestor-de-clientes-no-cmd.dll
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\bin\Debug\net5.0\ref\gestor-de-clientes-no-cmd.dll
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\bin\Debug\net5.0\gestor-de-clientes-no-cmd.pdb
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\obj\Debug\net5.0\gestor-de-clientes-no-cmd.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\obj\Debug\net5.0\gestor-de-clientes-no-cmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\obj\Debug\net5.0\gestor-de-clientes-no-cmd.AssemblyInfoInputs.cache
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\obj\Debug\net5.0\gestor-de-clientes-no-cmd.AssemblyInfo.cs
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\obj\Debug\net5.0\gestor-de-clientes-no-cmd.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\obj\Debug\net5.0\gestor-de-clientes-no-cmd.dll
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\obj\Debug\net5.0\ref\gestor-de-clientes-no-cmd.dll
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\obj\Debug\net5.0\gestor-de-clientes-no-cmd.pdb
+C:\Users\marlo\Desktop\dotNet\gestor-cliente\gestor-de-clientes-no-cmd\obj\Debug\net5.0\gestor-de-clientes-no-cmd.genruntimeconfig.cache
