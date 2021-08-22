@@ -1,0 +1,16 @@
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\bin\Debug\net5.0\classe-tutorial.exe
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\bin\Debug\net5.0\classe-tutorial.deps.json
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\bin\Debug\net5.0\classe-tutorial.runtimeconfig.json
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\bin\Debug\net5.0\classe-tutorial.runtimeconfig.dev.json
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\bin\Debug\net5.0\classe-tutorial.dll
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\bin\Debug\net5.0\ref\classe-tutorial.dll
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\bin\Debug\net5.0\classe-tutorial.pdb
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\obj\Debug\net5.0\classe-tutorial.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\obj\Debug\net5.0\classe-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\obj\Debug\net5.0\classe-tutorial.AssemblyInfoInputs.cache
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\obj\Debug\net5.0\classe-tutorial.AssemblyInfo.cs
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\obj\Debug\net5.0\classe-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\obj\Debug\net5.0\classe-tutorial.dll
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\obj\Debug\net5.0\ref\classe-tutorial.dll
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\obj\Debug\net5.0\classe-tutorial.pdb
+C:\Users\marlo\Desktop\dotNet\classes\classe-tutorial\obj\Debug\net5.0\classe-tutorial.genruntimeconfig.cache
